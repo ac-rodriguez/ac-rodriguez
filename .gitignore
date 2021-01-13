@@ -5,3 +5,6 @@
 /resources/
 public/
 jsconfig.json
+
+# Others
+.DS_Store

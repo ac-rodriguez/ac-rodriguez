@@ -76,4 +76,4 @@ Andrés is a PhD student at ETH Zurich working at the intersection of Remote Sen
 
 Born and raised in Colombia, Andrés developed a broader perception of global challenges like poverty, human rights and deforestation; which is why he actively directs his research towards solving them. His current research uses Machine Learning to process Optical and Radar satellite imagery for large-​scale object and change detection applications.
 
-{{< icon name="download" pack="fas" >}} See my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See my {{< staticref "media/CV_ANDRES_RODRIGUEZ_2020.pdf" "newtab" >}}CV{{< /staticref >}}.
