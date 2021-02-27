@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.ch/citations?user=8KKPgc8AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ac-rodriguez
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/andrescamilor
