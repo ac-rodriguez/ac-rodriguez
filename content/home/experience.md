@@ -32,7 +32,7 @@ experience:
         Responsibilities include:
         
         * Teaching Assistant Image Processing, Machine Learning and Multivariate Statistics
-        * Organizer of the first Machine Learning Workshop for Environmental and Geosciences [MLEG2019](www.mleg.ethz.ch)
+        * Organizer of the first Machine Learning Workshop for Environmental and Geosciences [MLEG2019](https://www.mleg.ethz.ch/)
         * BS and MS Thesis supervisor in deforestation detection in tropical regions, cocoa mapping and avalance mapping.
         
   - title: Research Assistant
@@ -41,7 +41,8 @@ experience:
     location: Zurich, Switzerland
     date_start: '2016-04-01'
     date_end: '2017-09-30'
-    description: |2- 
+    description: |2-
+        Responsibilities include:
             * Data processing with STATA and R
             * Statistical Analysis: Models for panel data using Logistic Regression, Hurdle models and Box-Cox Regression.
 
@@ -51,7 +52,8 @@ experience:
     location: Zurich, Switzerland
     date_start: '2016-04-01'
     date_end: '2017-09-30'
-    description: |2- 
+    description: |2-
+        Responsibilities include:
             * Joint Research Project with University of Washington, WA and Northeastern University, MA
             * Data collection with WBV equipment in Mining Heavy Equipment.
             * Data processing with Labview, SAS and R.
