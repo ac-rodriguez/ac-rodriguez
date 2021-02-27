@@ -21,7 +21,17 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  filter_default: 1
   # Filter on criteria
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: Deep Learning
+    tag: Deep Learning
+  - name: Remote Sensing
+    tag: Remote Sensing
+  - name: Other
+    tag: Other
   filters:
     tag: ''
     category: ''

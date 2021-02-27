@@ -5,6 +5,9 @@ authors:
 - Jan D. Wegner
 date: ""
 doi: ""
+tags:
+- Deep Learning
+- Remote Sensing
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-10-01T00:00:00Z"
@@ -28,6 +31,8 @@ tags:
 featured: false
 
 links:
+- name: Medium
+  url: https://medium.com/ecovisioneth/a-deep-learning-model-can-see-far-better-than-you-f689779eadf?source=friends_link&sk=19f9f2dacfb43e04c2bd6c8db6bb6773
 - name: Arxiv
   url: https://arxiv.org/abs/1809.07091
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-12939-2_24
