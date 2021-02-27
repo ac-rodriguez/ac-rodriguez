@@ -32,8 +32,7 @@ experience:
         Responsibilities include:
         
         * Teaching Assistant Image Processing, Machine Learning and Multivariate Statistics
-        * Organizer of the first Machine Learning Workshop for Environmental and Geosciences (MLEG2019)
-www.mleg.ethz.ch
+        * Organizer of the first Machine Learning Workshop for Environmental and Geosciences [MLEG2019](www.mleg.ethz.ch)
         * BS and MS Thesis supervisor in deforestation detection in tropical regions, cocoa mapping and avalance mapping.
         
   - title: Research Assistant
@@ -44,7 +43,7 @@ www.mleg.ethz.ch
     date_end: '2017-09-30'
     description: |2- 
             * Data processing with STATA and R
-            * Statistical Analysis: Models for panel data using Logistic Regression, Hurdle models and and Box-Cox Regression.
+            * Statistical Analysis: Models for panel data using Logistic Regression, Hurdle models and Box-Cox Regression.
 
   - title: Research Assistant
     company: Pontificia Universidad Javeriana - Faculty of Engineering
@@ -58,5 +57,4 @@ www.mleg.ethz.ch
             * Data processing with Labview, SAS and R.
             * Statistical Analysis: Logistic Regression, Mixed Models and Box-Cox Regression on Epidemiological.
             * See related academic output in the publications section.
-Data.
 ---
