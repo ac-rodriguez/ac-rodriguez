@@ -21,11 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We propose a scheme for supervised image classification that uses privileged information, in the form of keypoint annotations for the training data, to learn strong models from small and/or biased training sets. 
-Our main motivation is the recognition of animal species for ecological applications such as biodiversity modelling, which is challenging because of long-tailed species distributions due to rare species, and strong dataset biases such as repetitive scene background in camera traps.
-To counteract these challenges, we propose a visual attention mechanism that is supervised via keypoint annotations that highlight important object parts.
-This privileged information, implemented as a novel privileged pooling operation, is only required during training and helps the model to focus on regions that are discriminative.
-In experiments with three different animal species datasets, we show that deep networks with privileged pooling can use small training sets more efficiently and generalize better.
+abstract: We propose a scheme for supervised image classification that uses privileged information, in the form of keypoint annotations for the training data, to learn strong models from small and/or biased training sets. Our main motivation is the recognition of animal species for ecological applications such as biodiversity modelling, which is challenging because of long-tailed species distributions due to rare species, and strong dataset biases such as repetitive scene background in camera traps. To counteract these challenges, we propose a visual attention mechanism that is supervised via keypoint annotations that highlight important object parts. This privileged information, implemented as a novel privileged pooling operation, is only required during training and helps the model to focus on regions that are discriminative. In experiments with three different animal species datasets, we show that deep networks with privileged pooling can use small training sets more efficiently and generalize better.
 
 # Summary. An optional shortened abstract.
 summary: 
