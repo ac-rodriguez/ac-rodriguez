@@ -44,8 +44,8 @@ experience:
     description: |2-
         Responsibilities include:
 
-            * Data processing with STATA and R
-            * Statistical Analysis: Models for panel data using Logistic Regression, Hurdle models and Box-Cox Regression.
+        * Data processing with STATA and R
+        * Statistical Analysis: Models for panel data using Logistic Regression, Hurdle models and Box-Cox Regression.
 
   - title: Research Assistant
     company: Pontificia Universidad Javeriana - Faculty of Engineering
@@ -56,9 +56,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-            * Joint Research Project with University of Washington, WA and Northeastern University, MA
-            * Data collection with WBV equipment in Mining Heavy Equipment.
-            * Data processing with Labview, SAS and R.
-            * Statistical Analysis: Logistic Regression, Mixed Models and Box-Cox Regression on Epidemiological.
-            * See related academic output in the publications section.
+        * Joint Research Project with University of Washington, WA and Northeastern University, MA
+        * Data collection with WBV equipment in Mining Heavy Equipment.
+        * Data processing with Labview, SAS and R.
+        * Statistical Analysis: Logistic Regression, Mixed Models and Box-Cox Regression on Epidemiological.
+        * See related academic output in the publications section.
 ---
