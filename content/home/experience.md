@@ -43,6 +43,7 @@ experience:
     date_end: '2017-09-30'
     description: |2-
         Responsibilities include:
+
             * Data processing with STATA and R
             * Statistical Analysis: Models for panel data using Logistic Regression, Hurdle models and Box-Cox Regression.
 
@@ -54,6 +55,7 @@ experience:
     date_end: '2017-09-30'
     description: |2-
         Responsibilities include:
+        
             * Joint Research Project with University of Washington, WA and Northeastern University, MA
             * Data collection with WBV equipment in Mining Heavy Equipment.
             * Data processing with Labview, SAS and R.
