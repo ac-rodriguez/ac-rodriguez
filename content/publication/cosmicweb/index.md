@@ -41,9 +41,9 @@ featured: false
 links:
 # - name: Custom Link
   # url: http://example.org
-url_pdf: '#'
-url_code: '#'
-url_dataset: '#'
+url_pdf: 'https://comp-astrophys-cosmol.springeropen.com/articles/10.1186/s40668-018-0026-4'
+# url_code: '#'
+# url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
@@ -53,7 +53,7 @@ url_dataset: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Oil palm density map from 2017. We estimate a total of 1.7 billion oil palms Indonesia and Malaysia.'
+  caption: 'Generative Adversarial Network synthesized samples of the cosmic web'
   focal_point: ""
   preview_only: false
 
