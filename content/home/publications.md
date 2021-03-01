@@ -21,23 +21,23 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  filter_default: 1
-  # Filter on criteria
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Remote Sensing
-    tag: Remote Sensing
-  - name: Other
-    tag: Other
+  # filter_default: 1
+  # # Filter on criteria
+  # filter_button:
+  # - name: All
+  #   tag: '*'
+  # - name: Deep Learning
+  #   tag: Deep Learning
+  # - name: Remote Sensing
+  #   tag: Remote Sensing
+  # - name: Other
+  #   tag: Other
   filters:
     tag: ''
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: false
+    exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
