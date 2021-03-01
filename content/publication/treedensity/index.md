@@ -5,9 +5,6 @@ authors:
 - Jan D. Wegner
 date: ""
 doi: ""
-tags:
-- Deep Learning
-- Remote Sensing
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-10-01T00:00:00Z"
@@ -25,15 +22,16 @@ publication_short: ""
 abstract: We propose a new method to count objects of specific categories that are significantly smaller than the ground sampling distance of a satellite image. This task is hard due to the cluttered nature of scenes where different object categories occur. Target objects can be partially occluded, vary in appearance within the same class and look alike to different categories. Since traditional object detection is infeasible due to the small size of objects with respect to the pixel size, we cast object counting as a density estimation problem. To distinguish objects of different classes, our approach combines density estimation with semantic segmentation in an end-to-end learnable convolutional neural network (CNN). Experiments show that deep semantic density estimation can robustly count objects of various classes in cluttered scenes. Experiments also suggest that we need specific CNN architectures in remote sensing instead of blindly applying existing ones from computer vision.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: We propose a new method to count objects of specific categories, including oil palm trees, olive trees and cars. All of these objects are significantly smaller than the ground sampling distance of a satellite image.
 tags:
-- Source Themes
+- Deep Learning
+- Remote Sensing
 featured: false
 
 links:
 - name: Medium
   url: https://medium.com/ecovisioneth/a-deep-learning-model-can-see-far-better-than-you-f689779eadf?source=friends_link&sk=19f9f2dacfb43e04c2bd6c8db6bb6773
-- name: Arxiv
+- name: ArXiv
   url: https://arxiv.org/abs/1809.07091
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-12939-2_24
 # url_code: '#'
