@@ -42,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+# - icon: envelope
+#   icon_pack: fas
+#   link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/andrescamilor
@@ -56,7 +56,7 @@ social:
   link: https://github.com/ac-rodriguez
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/andrescamilor
+  link: https://www.linkedin.com/in/andrescamilor
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -72,8 +72,12 @@ email: ""
 highlight_name: false
 ---
 
-Andrés is a PhD student at ETH Zurich working at the intersection of Remote Sensing, Computer Vision and Machine Learning. Andres joined the EcoVision Lab in 2017 after finishing his master studies in Statistics at ETH Zurich.
+I am a PhD student at ETH Zurich working at the intersection of Remote Sensing, Computer Vision and Machine Learning. I joined the EcoVision Lab in 2017 after finishing my master studies in Statistics at ETH Zurich.
 
-Born and raised in Colombia, Andrés developed a broader perception of global challenges like poverty, human rights and deforestation; which is why he actively directs his research towards solving them. His current research uses Machine Learning to process Optical and Radar satellite imagery for large-​scale object and change detection applications.
+Born and raised in Colombia, I developed a broader perception of global challenges like poverty, human rights and deforestation; which is why I actively direct my research towards solving them.
+
+My current research interests are Machine Learning for Optical and Radar satellite imagery in large-scale applications, Fine-grained classification and Semi-supervised learning.
 
 {{< icon name="download" pack="fas" >}} See my {{< staticref "media/CV_ANDRES_RODRIGUEZ_2020.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+*Contact*: andres.rodriguez(at)geod.baug.ethz.ch
