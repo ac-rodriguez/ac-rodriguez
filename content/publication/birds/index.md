@@ -10,6 +10,7 @@ doi: ""
 tags:
 - Deep Learning
 - Fine-Grained
+featured: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-28T00:00:00Z"
