@@ -22,7 +22,7 @@ content:
     author: ""
     category: ""
     publication_type: ""
-    tag: "Remote Sensing"
+    tag: Remote Sensing
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
