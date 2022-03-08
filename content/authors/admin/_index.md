@@ -78,6 +78,6 @@ Born and raised in Colombia, I developed a broader perception of global challeng
 
 My current research interests are Machine Learning for Optical and Radar satellite imagery in large-scale applications, Fine-grained classification and Semi-supervised learning.
 
-{{< icon name="download" pack="fas" >}} See my {{< staticref "media/CV_ANDRES_RODRIGUEZ_2020.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See my {{< staticref "media/CV_ANDRES_RODRIGUEZ_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 *Contact*: andres.rodriguez(at)geod.baug.ethz.ch
