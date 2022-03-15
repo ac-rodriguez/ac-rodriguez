@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD student at ETH Zurich working at the intersection of Remote Sensing, Computer Vision and Machine Learning. I joined the EcoVision Lab in 2017 after finishing my master studies in Statistics at ETH Zurich.
+I am a PhD student at ETH Zurich working at the intersection of Remote Sensing, Computer Vision and Machine Learning. I joined the [EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html) in 2017 after finishing my master studies in Statistics at ETH Zurich.
 
 Born and raised in Colombia, I developed a broader perception of global challenges like poverty, human rights and deforestation; which is why I actively direct my research towards solving them.
 
