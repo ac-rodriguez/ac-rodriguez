@@ -22,19 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant - PhD Student
+  - title: Co-founder
+    company: Kapok.ai
+    company_url: 'https://kapok.ai/'
+    location: Zurich, Switzerland
+    date_start: '2022-04-01'
+    date_end: ''
+    description: |2-
+        * Backend development environmental monitoring tools for yield estimation, deforestation and prototypes of biodiversity monitoring
+		    * Strategy and product development,  customer acquisition and financial and resource planning
+		    
+  - title: Research Assistant
     company: ETH Zurich - EcoVision and Photogrammetry and Remote Sensing Group
     company_url: 'https://prs.igp.ethz.ch/'
     location: Zurich, Switzerland
     date_start: '2017-10-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Teaching Assistant Image Processing, Machine Learning and Multivariate Statistics
-        * Organizer of the first Machine Learning Workshop for Environmental and Geosciences [MLEG2019](https://www.mleg.ethz.ch/)
-        * BS and MS Thesis supervisor in deforestation detection in tropical regions, cocoa mapping and avalance mapping.
-        
+    date_end: '2022-09-01'
+    description: |2-        
+		    * Developed tool for mapping of more than 2 billion palm oil trees in south-east Asia with open access data.
+		    * Supervisor of several thesis and coordination of programming workflows. Relevant topics: Uncertainty estimation, deforestation detection and crop cocoa mapping
+
   - title: Research Assistant
     company: ETH Zurich - Chair of Risk and Insurance Economics
     company_url: ''
@@ -42,8 +49,6 @@ experience:
     date_start: '2016-04-01'
     date_end: '2017-09-30'
     description: |2-
-        Responsibilities include:
-
         * Data processing with STATA and R
         * Statistical Analysis: Models for panel data using Logistic Regression, Hurdle models and Box-Cox Regression.
 
@@ -54,11 +59,6 @@ experience:
     date_start: '2016-04-01'
     date_end: '2017-09-30'
     description: |2-
-        Responsibilities include:
-        
         * Joint Research Project with University of Washington, WA and Northeastern University, MA
-        * Data collection with WBV equipment in Mining Heavy Equipment.
         * Data processing with Labview, SAS and R.
-        * Statistical Analysis: Logistic Regression, Mixed Models and Box-Cox Regression on Epidemiological.
-        * See related academic output in the publications section.
 ---

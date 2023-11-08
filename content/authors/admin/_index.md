@@ -6,15 +6,15 @@ title: Andres C Rodriguez
 superuser: true
 
 # Role/position/tagline
-role: PhD Student at ETH Zurich
+role: Bridge Fellow (PostDoc) at Kapok.ai/ETH Zurich
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: EcoVision Lab - Photogrammetry and Remote Sensing at ETH Zurich
-  url: https://prs.igp.ethz.ch/ecovision.html
+- name: Kapok.ai / ETH Zurich
+  url: https://kapok.ai/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses in developing new algorithms that use Remote Sensing data for environmental and sustainability purposes.
+bio: My interest is in developing algorithms that leverage Remote Sensing data for environmental and sustainability purposes.
 
 # Interests to show in About widget
 interests:
@@ -23,13 +23,15 @@ interests:
 - Data Efficency
 - Sensor Fusion
 - Fine Grained Classification
+- Sustainability
+- ESG Risk Analysis
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Photogrammetry and Remote Sensing
     institution: ETH Zurich
-    year: 2022 (expected)
+    year: 2022
   - course: Master in Science in Statistics
     institution: ETH Zurich
     year: 2015
@@ -72,12 +74,13 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD student at ETH Zurich working at the intersection of Remote Sensing, Computer Vision and Machine Learning. I joined the [EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html) in 2017 after finishing my master studies in Statistics at ETH Zurich.
+I am a software developer specialized on **satellite image analysis** with **machine learning** models for environmental monitoring. I have several years of experience developing machine learning models with business partners on a project basis. My scientific publications showcase: (1) models that can deal with small and biased training datasets; (2) how to design \textbf{cost-saving labelling schemes} for large datasets, and (3) early use-cases of **generative models**.
+After finishing my PhD at ETH Zurich under the supervision of Prof. Konrad Schinlder and Prof. Jan D. Wegner, I **co-founded** [Kapok.ai](https://kapok.ai/), a start-up focused on machine learning models for agriculture and ESG sectors.
 
-Born and raised in Colombia, I developed a broader perception of global challenges like poverty, human rights and deforestation; which is why I actively direct my research towards solving them.
+Born and raised in Colombia, I developed a broader perception of global challenges like sustainable development, biodiversity monitoring, poverty and human rights.
 
-My current research interests are Machine Learning for Optical and Radar satellite imagery in large-scale applications, Fine-grained classification and Semi-supervised learning.
+Outside of work I like to row with the [Zurich Penguins](https://zurichpenguins.ch/), do CrossFit and meditate.
 
-{{< icon name="download" pack="fas" >}} See my {{< staticref "media/CV_ANDRES_RODRIGUEZ_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See my {{< staticref "media/CV_ANDRES_RODRIGUEZ.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-*Contact*: andres.rodriguez(at)geod.baug.ethz.ch
+*Contact*: andrescamilor (at) gmail.com

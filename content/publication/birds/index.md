@@ -28,13 +28,13 @@ summary: We propose a scheme that uses privileged information, in the form of ke
 tags:
 - Deep Learning
 - Fine-Grained
-featured: true
+featured: false
 
 links:
 # - name: Custom Link
   # url: http://example.org
 url_pdf: https://arxiv.org/abs/2003.09168
-url_code: '#'
+url_code: 'https://github.com/ac-rodriguez/privilegedpooling'
 url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
