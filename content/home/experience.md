@@ -30,8 +30,8 @@ experience:
     date_end: ''
     description: |2-
         * Backend development environmental monitoring tools for yield estimation, deforestation and prototypes of biodiversity monitoring
-		    * Strategy and product development,  customer acquisition and financial and resource planning
-		    
+        * Strategy and product development,  customer acquisition and financial and resource planning
+        
   - title: Research Assistant
     company: ETH Zurich - EcoVision and Photogrammetry and Remote Sensing Group
     company_url: 'https://prs.igp.ethz.ch/'
@@ -39,8 +39,8 @@ experience:
     date_start: '2017-10-01'
     date_end: '2022-09-01'
     description: |2-        
-		    * Developed tool for mapping of more than 2 billion palm oil trees in south-east Asia with open access data.
-		    * Supervisor of several thesis and coordination of programming workflows. Relevant topics: Uncertainty estimation, deforestation detection and crop cocoa mapping
+        * Developed tool for mapping of more than 2 billion palm oil trees in south-east Asia with open access data.
+        * Supervisor of several thesis and coordination of programming workflows. Relevant topics: Uncertainty estimation, deforestation detection and crop cocoa mapping
 
   - title: Research Assistant
     company: ETH Zurich - Chair of Risk and Insurance Economics
