@@ -74,8 +74,13 @@ email: ""
 highlight_name: false
 ---
 
-I am a software developer specialized on **satellite image analysis** with **machine learning** models for environmental monitoring. I have several years of experience developing machine learning models with business partners on a project basis. My scientific publications showcase: (1) models that can deal with small and biased training datasets; (2) how to design \textbf{cost-saving labelling schemes} for large datasets, and (3) early use-cases of **generative models**.
-After finishing my PhD at ETH Zurich under the supervision of Prof. Konrad Schinlder and Prof. Jan D. Wegner, I **co-founded** [Kapok.ai](https://kapok.ai/), a start-up focused on machine learning models for agriculture and ESG sectors.
+I am an **AI-specialist with over 6 years of experience** in developing cost-effective machine learning models for cost-effective and large-scale data applications.
+After finishing my PhD at ETH Zurich under the supervision of Prof. Konrad Schinlder and Prof. Jan D. Wegner, I
+**led [Kapok.ai](https://kapok.ai/) a tech startup for the past 1.5 years** overseeing strategic development and innovations in the agriculture and ESG sectors.
+Collaborated with business partners on projects for  large-scale crop and environmental monitoring using satellite images.
+
+My technical developments include: (1) a pioneering application of **generative models** in physics;
+(2) highly accurate AI-models for image classification even when there is little to no training data samples; (3) an innovative technology for large-scale data analysis that reduces the labelling effort by 80\%.
 
 Born and raised in Colombia, I developed a broader perception of global challenges like sustainable development, biodiversity monitoring, poverty and human rights.
 
